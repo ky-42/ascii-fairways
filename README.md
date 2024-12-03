@@ -1,4 +1,4 @@
-# Shell Games
+# Terminal Games
 
 ## ASCII Fairways
 __Golf game played in terminal__ ⛳
